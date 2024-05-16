@@ -1,2 +1,3 @@
 .venv
 postgresql
+__pycache__
