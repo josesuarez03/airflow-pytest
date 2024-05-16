@@ -1,4 +1,5 @@
 .venv
 postgresql
 __pycache__
-airflow/logs/
+airflow/logs
+airflow/app
